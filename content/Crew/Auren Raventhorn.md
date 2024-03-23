@@ -1,14 +1,18 @@
 
 ## Backstory
 
-An orphan taken in at a young age by a group of sailors on a ship known as the [[The Wandering Mermaid]] a floating orphanage ran by a half-orc named [[Elanor Craven]] a kind hearted soul who would travel XXXX aiding children in need, giving them the ability to survive on their own and teaching them a trade.
+Auren was an orphan taken in at a young age by a group of sailors on a ship known as the [[The Wandering Mermaid]] a floating orphanage stationed in the city of [[Farview]]. 
 
-Upon reaching maturity Auren went off on her own travelling between various crews but could never keep with the same crew for too long as strange occurrences would start to happen.. 
+The orphanage was ran by a half-orc named [[Elanor Craven]], a kind hearted soul who would travel Faerun aiding children in need, giving them the ability to survive on their own and teaching them a trade.
 
-At the time she was unaware of the causes but as the occurrences became more frequent you found out from some of the more magically inclined crew mates that you'd travelled with that it was your innate magic that has begun to bloom, which often lead to accidents.. resulting in you being dropped off at the next port as you were too much of a risk as you could not yet control your abilities.
+Upon reaching 18 Auren went off on her own travelling between various crews but could never keep with the same crew for too long as strange occurrences would start to happen.. 
 
-While on land you met a dragonborn sorcerer named [[Axul Zorgar]], he took you under his wings and was able to teach you about your abilities, and helped you through an ancient ritual find out that your gifts are a blessing from a gold dragon that was provided to your family.
+At the time she was unaware of the cause but as the occurrences became more frequent, she found out from some of her more magically inclined crew mates that it was her innate magic that has begun to bloom.
 
-[[Axul Zorgar]] would go on to train you as a sorcerer for the next few years. Once Auren had got a handle on her abilities, she decided to head out on her own in hopes to discover more about her past and the world she has yet to discover.
+While docked in the port city of Candlekeep she met a dragonborn sorcerer named [[Axul Zorgar]], who took her under his wings and was able to teach her about her abilities.
 
-With a recommendation from her mentor she headed to Neverwinter to join the Sword Coast [[Adventurers Guild]], having taught her everything he was able to teach her, it was decided this was her best chance to improve her abilities and find out more about her family and ancestry.
+He performed an ancient ritual that allowed her to find out that her gifts are a blessing from an ancient gold dragon, while training with [[Axul Zorgar]] she learned around the history of dragons and found out that gold dragons are the most powerful and majestic of the metallic dragons dedicating themselves to destroying evil.
+
+[[Axul Zorgar]] would go on to train her as a sorcerer for the next few years. Once Auren had got a handle on her abilities, she decided to head out on her own in hopes to discover more about her past, the world she has yet to discover and possibly a reason for why she was gifted these abilities.
+
+With a recommendation from her mentor she headed to Neverwinter to join the [[Adventurers Guild]], having taught her everything he was able to teach her, Axul decided this was her best chance to improve her abilities and find out more about her past and ancestry.

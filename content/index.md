@@ -1,6 +1,17 @@
 ---
 title: Welcome to Quartz
 ---
+# Sessions
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+## Current Session
+Session 4
+
+## Previous Session
+Session 3
+
+# Characters
+
+- [[Arabella Ravensong]]
+- [[Auren Raventhorn]]
+- [[Sir Dorin Mountainheart]]
+- [[Elion Duskwhisper]]
