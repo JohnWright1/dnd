@@ -1,11 +1,19 @@
 ---
-title: "Axul Zorgar"
-draft: false
+title: Axul Zorgar
 tags:
-  - 
 ---
+![[axul-zorgar.jpg]]
 
-### Secrets
+# Description
+
+- Male
+- Dragonborn
+- Brown Scales
+- Gold Eyes
+
+# Affiliations
+
+# Secrets
 
 An Ancient Gold Dragon who has lived for 850 years Axul Zorgar having achieved such massive hoards has begun to spend his time spreading his power and influence over the world. Having understood this is his best option to root out and defeat evil demonic corruption.
 

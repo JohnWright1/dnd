@@ -4,10 +4,10 @@ title: Welcome to Quartz
 # Sessions
 
 ## Current Session
-Session 4
+
+[[Session 1]]
 
 ## Previous Session
-Session 3
 
 # Characters
 

@@ -1,5 +1,16 @@
+---
+title: Auren Raventhorn
+tags:
+---
+# Description
 
-## Backstory
+Half-Elf - Sailor - Sorcerer Level 3 - Draconic Bloodline (Gold)
+
+# Position
+
+# Personal Quest
+
+# Backstory
 
 Auren was an orphan taken in at a young age by a group of sailors on a ship known as the [[The Wandering Mermaid]] a floating orphanage stationed in the city of [[Farview]]. 
 

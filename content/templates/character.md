@@ -4,8 +4,6 @@ tags:
 ---
 # Description
 
-# Position
+# Affiliations
 
-# Personal Quest
 
-# Backstory

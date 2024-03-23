@@ -1,5 +1,19 @@
+---
+title: Arabella Ravensong
+tags:
+---
+# Description
 
-## Backstory
+High Elf - Noble - Cleric Level 3 - Light Domain
+God: Helm the god of protection
+
+# Adventurers Guild
+
+Bronze rank
+
+# Personal Quest
+
+# Backstory
 
 Arabella is the daughter of Themalin and Wynra Ravensong, owners of several generous plots of land handed down through generations. 
 
@@ -10,4 +24,3 @@ But none of these activities held her interest for long enough for her to ever g
 After a recent attempt on hers and her family’s life for the sake of their fortune only saved by the nameless adventurer that had come and saved her, slaughtering the goblins that had tried to attack, Arabella decided she and her family owed her thanks to Helm and began to worship him, devoting herself to help others less fortunate and weaker than her. 
 
 Her family disagreed that this was necessary, saying they paid their dues and thanks through coin. However when Arabella was set on joining an adventuring guild, they begrudgingly allowed her as her brother was first in line.
-
