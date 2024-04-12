@@ -1,5 +1,5 @@
 ---
-title: Session 1
+title: Session 2
 ---
 # Characters
 
@@ -21,6 +21,13 @@ Harbin Wester
 
 # Planned Encounters
 
+Arabella god sequence.
+
+Hammer is encountered in the centre of town.
+No one else can interact or see the hammer
+Touching the hammer teleports Arabella.
+Powerful people/entities in a tavern
+Request assistance in freeing the souls of creatures in exchange for rewards.
 
 # Recap
 
@@ -34,7 +41,7 @@ After restocking supplies the group headed towards Butterskull Ranch. While on r
 
 Soon after they had their first encounter with the young white dragon. After the dragon dispatched one of the horses they were able to push the dragon away, making it clear to the dragon that they weren’t going to be an easy meal he lost interest.
 
-En route to the ranch they encountered a cow which they were able to coax into following them to the ranch. 
+Enroute to the ranch they encountered a cow which they were able to coax into following them to the ranch. 
 
 Once they arrived at the ranch they were surrounded by the atrocities that the orcs had committed with several of the farmhands corpses burning inside a destroyed stables.
 
