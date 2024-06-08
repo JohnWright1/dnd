@@ -13,24 +13,34 @@ title: Session 3
 - Returning to town to receive payment for the Mountains Toe Gold Mine quest.
 - Find a cure for Arabella's curse.
 - Loggers camp quest
+	- Could lead to Falcon Hunting Lodge on the way.
 
 # Things The Party Should Know
 
 # NPCs That Might Show Up
 
--  [[Don-Jon Raskin]]
+- [[Don-Jon Raskin]]
+- [[Harbin Wester]]
+- [[Adabra Gwynn]]
 
 # Planned Encounters
 
-- Loggers Camp - Page 34
-- Phandalin Crypt
-	- Requested by 
+- Upon asking in town for healers they are notified that Adabra Gwynn is the apprentice of Sister Garaele who runs the local shrine in town. It's possible that she has the capabilities to restore Arabella to her former self, in exchange for an old tome that can be found in the ruins to the east of Phandalin, inside of an old crypt for Old Phandalin. She offers to give the party a scroll of cure curse.
+- Phandalin Ancient Crypt
+	- Requested by [[Adabra Gwynn]]
+	- Ruins encounters.. once they have made their way down into the ruins.. they are attacked by a ghast and 2 ghouls - MM 148.
+	- Further into the ruins they encounter the libram and the entrance is shut off.
 	- Encounters - Libram - T, P & D - Pg 131
 		- Skeletons - MM - Pg 272
 		- Zombie - MM - Pg 316
-		- Wight - MM Pg 300
-		- Lich - MM Pg 202
-
+	- Adabra reveals herself as a green hag who lunges forth to attack.
+		- Green Hag - MM Pg 177
+- Loggers Camp - Page 34 - Quest given a few days after resting in Phandalin.
+	- Delivery of supplies to Tibor Wester in his camp at the loggers camp within the never winter woods.
+	- On route the party will encounter a disguised boar.. 
+	- Upon arrival they find the camp in ruins with ankheg's hidden around the campa attacking individuals.
+	- The rest of the workers are dead, but Tibor can be found hiding in the office in his office.
+	- The Ankeg can be found associated with a totem that was setup by the evil orcs.
 
 # Recap
 

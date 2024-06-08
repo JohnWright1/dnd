@@ -5,9 +5,12 @@ title: Welcome to Quartz
 
 ## Current Session
 
-[[Session 1]]
+- [[Session 3]]
 
 ## Previous Session
+
+- [[Session 1]]
+- [[Session 2]]
 
 # Characters
 
