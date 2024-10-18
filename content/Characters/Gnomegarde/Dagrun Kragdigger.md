@@ -1,9 +1,8 @@
 ---
-title: <% tp.file.title %>
-Alignment: 
-Species: 
-Class: 
-Level:
+Alignment: Neutral Evil
+Species: Dwarf
+Class: Sorcerer
+Level: "2"
 ---
 # Appearance
 

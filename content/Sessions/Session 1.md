@@ -7,6 +7,7 @@ title: Session 1
 
 # NPCs That Might Show Up
 
+- [[Dagrun Kragdigger]]
 # Planned Encounters
 
 ```encounter-table

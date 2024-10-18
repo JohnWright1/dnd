@@ -45,8 +45,3 @@ This lead to a resentment that burned deep inside for gnomes, to the point where
 Perhaps given time, and a new overseer the orc would be forgiven for his crimes, but under the current overseer this does not seem likely. Time will tell what awaits Adzak.
 
 Imprisoned since he was 18 years old.
-
-# Statblock
-
-```
-```
