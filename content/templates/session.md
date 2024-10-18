@@ -1,13 +1,6 @@
 ---
 title: <% tp.file.title %>
 ---
-# Characters
-
-- [[Arabella Ravensong]]
-- [[Auren Raventhorn]]
-- [[Sir Dorin Mountainheart]]
-- [[Elion Duskwhisper]]
-
 # Current Threads
 
 # Things The Party Should Know
@@ -19,5 +12,3 @@ title: <% tp.file.title %>
 # Recap
 
 # Important Rules
-
-# Summary
