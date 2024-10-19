@@ -1,16 +1,19 @@
 ---
 Level: "3"
 Class: Monk (Warrior of Mercy)
-Species: Goliath
+Species: Goliath, Lunarian
 Alignment: Lawful Neutral
 ---
 # Description
+
 - Male
 - 7 foot 10 inches
 # Traits
 
+- Born under a gold moon ([[Agneal]])
 # Personal Quest
 
+- Find his parents
 # Backstory
 
 Raised in a village in the mountains by parents who were medicine sellers. Parents travelled from time to time to sell medicine to other areas in need. Aukan would stay in a nearby monastery with a friend of the family whilst parents were away. There was a final trip from which parents would never return and nothing would be known of their disappearance.

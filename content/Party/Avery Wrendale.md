@@ -1,17 +1,17 @@
 ---
 Level: "3"
 Class: Paladin (Oath of the Ancients)
-Species: Aasimar
-Alignment:
+Species: Aasimar, Lunarian
+Alignment: Neutral Good
 ---
 # Description
 
-
+- Gold tattoos covering her face and body
+- Long blonde hair
 # Traits
 
-
+- Born under a silver moon ([[Vyross]])
 # Personal Quest
-
 
 # Backstory
 
