@@ -4,6 +4,7 @@ Species: Dwarf
 Class: Sorcerer
 Level: "2"
 Job: Mine Overseer
+Status: Unknown
 ---
 # Appearance
 

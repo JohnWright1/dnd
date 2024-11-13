@@ -1,3 +1,3 @@
-Transcendent Crystals are widely used across the world. 
+In this world, magic is not an everyday occurrence but a lost art for rarely seen naturally, instead magic can be used by those who wield the rare and powerful [[Transcendent Crystals]]. 
 
-
+These crystals, scattered throughout Erodar, are capable of harnessing simple magical abilities, from healing wounds to illuminating the dark. They are sought after and highly valued, often the cause of conflict and intrigue among the kingdoms.

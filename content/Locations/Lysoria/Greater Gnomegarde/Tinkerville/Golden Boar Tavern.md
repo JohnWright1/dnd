@@ -1,6 +1,8 @@
 ---
 Region: Greater Gnomegarde
 Allegiance: Gnomegarde
+Settlement: "[[Tinkerville]]"
+Type: Tavern
 ---
 # Description
 

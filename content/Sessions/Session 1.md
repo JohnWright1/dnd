@@ -14,6 +14,7 @@ Beatrice not knowing about Dagrun.
 
 - [[Dagrun Kragdigger]]
 - [[Beatrice Flowerheart]]
+- [[BBEG]]
 # Planned Interactions
 
 - [[Golden Boar Tavern]]
