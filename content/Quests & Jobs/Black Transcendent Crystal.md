@@ -13,5 +13,6 @@ The black nature of the crystal means that has been infused with powerful necrom
 	- Any shops that sell crystal should be able to impart some information about the crystal.. 
 	- Shops will become hesitant and nervous if they see the crystal and may report he party to the authorities if they party is not able to convince the shopkeepers of their innocence.
 - Further information might be found at Gemhold where they would be able to test the crystal and maybe provide more information if they aren't apprehended first.
+- If desperate to get rid of the crystal the party may discard (has effects) or they may try to sell the crystal to a merchant or to a fence..
 
 # Questgiver

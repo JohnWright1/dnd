@@ -26,6 +26,11 @@ title: Session 2
 - [[Golden Boar Tavern]]
 # Planned Encounters
 
+Possible encounter with roaming ghouls and a ghast drawn towards the party due to the crystal when camping overnight.
+
+Possible encounter near the cemetery on the way out of town due to the crystal.
+
+Possible encounter with guards and a knight to arrest the party for being in possession of the crystal.
 # Planned Dialog
 
 [[Perri Leafblade]]
@@ -43,7 +48,7 @@ Heading towards the southern entrance of the mine the group encountered a ogre f
 
 The unknown figure they encounter seemed to hover around the group testing them in some way.. he talked about [[Dagrun Kragdigger]] being suitable and then measured up the rest of the group.. with a wave of his hand he quickly became taken aback about the group referring to them as [[Lunarians]]. 
 
-Frustrated he pulled a black [[Transcendent Crystals]] out of his pocket and pushed the crystal into the chest of the Ogre, before disappearing into the shadows when the stasis was dropped and the party was thrust into combat with the Ogre.
+Frustrated, he pulled a black [[Transcendent Crystals]] out of his pocket and pushed the crystal into the chest of the Ogre, before disappearing into the shadows when the stasis was dropped and the party was thrust into combat with the Ogre.
 
 After defeating the Ogre, [[Adzak]] split from the party and headed off on his own to prevent himself from being recaptured or being blamed for the disappearance of [[Dagrun Kragdigger]].
 
