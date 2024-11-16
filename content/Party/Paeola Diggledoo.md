@@ -1,6 +1,6 @@
 ---
 Level: "3"
-Class: Wizard (Illusionist)
+Class: Wizard (School of Illusion)
 Species: Halfling, Lunarian
 Alignment: Neutral Good
 ---
