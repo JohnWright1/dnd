@@ -17,3 +17,6 @@ Four adventurers begin their journey not knowing the weight of destiny hangs hea
 The path before you is fraught with peril and opportunity, and the choices you make will shape the future of Erodar itself. Will you forge alliances, uncover ancient secrets, or rise to power? The adventure begins now.
 
 Welcome to Erodar.
+
+![[Erodar Map.png]]
+

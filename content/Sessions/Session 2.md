@@ -26,6 +26,9 @@ title: Session 2
 - [[Golden Boar Tavern]]
 # Planned Encounters
 
+# Planned Dialog
+
+[[Perri Leafblade]]
 # Recap
 
 At the [[Golden Boar Tavern]] is where [[Aukan]], [[Avery Wrendale]] and [[Paeola Diggledoo]] first met. They were on a job for the Gnomegarde Mining Organization in order to destroy the hobgoblins and goblins that had setup camp in the lower parts of the gnomegarde mine.
