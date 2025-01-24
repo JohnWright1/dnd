@@ -5,7 +5,9 @@ title: Erodar
 
 ## Current Session
 
-- [[Session 2]]
+- [[Session 3]]
 ## Previous Sessions
 
 - [[Session 1]]
+- [[Session 2]]
+

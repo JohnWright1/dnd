@@ -19,7 +19,7 @@ On a rare celestial night, when the stars aligned to form a radiant constellatio
 
 From her earliest days, Avery felt a deep connection to both the celestial and the earthly realms. Her parents, skilled in the ways of nature, taught her the secrets of the land: how to read the signs of the seasons, the songs of the wind, and the stories written in the patterns of the leaves. They nurtured her innate gifts, blending the wisdom of the earth with her celestial heritage, teaching her to harness the power of nature in her journey.
 
-As she grew, Avery became a skilled guide, leading travelers through the verdant woods and rolling hills surrounding Drakenshire. Her ability to commune with the land and understand its rhythms set her apart. She knew which paths to take, where the hidden springs lay, and how to find safety in the embrace of nature. Yet, it was on her sixteenth birthday that her life would change forever.
+As she grew, Avery became a skilled guide, leading travelers through the verdant woods and rolling hills surrounding **Drakenshire**. Her ability to commune with the land and understand its rhythms set her apart. She knew which paths to take, where the hidden springs lay, and how to find safety in the embrace of nature. Yet, it was on her sixteenth birthday that her life would change forever.
 
 That evening, as the celestial alignment returned to the night sky, Avery ventured into the forest, drawn by a powerful calling. Beneath the shimmering constellations, she discovered a sacred grove bathed in silver light, where the energy of the earth felt more potent than ever. In the center stood an ancient altar, its surface etched with runes of protection and guidance.
 
