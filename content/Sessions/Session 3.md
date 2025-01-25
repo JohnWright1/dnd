@@ -22,11 +22,12 @@ title: Session 3
 ## Greater Gnomegarde
 
 - [[Tinkerville]]
-- [[Sturdy Supplies]]
 - [[Golden Boar Tavern]]
 # Planned Encounters
 
 Possible encounter with guards and a knight to arrest the party for being in possession of the crystal.
+
+Possible encounter with Spiders when travelling back to the Tinkerville or outside of the cemetery
 # Planned Dialog
 
 # Recap
