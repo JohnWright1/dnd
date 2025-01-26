@@ -25,9 +25,9 @@ title: Session 3
 - [[Golden Boar Tavern]]
 # Planned Encounters
 
-Possible encounter with guards and a knight to arrest the party for being in possession of the crystal.
+Possible encounter with guards and a knight to arrest the party for being in possession of the crystal whose dark energy can be seen having an effect on the village.
 
-Possible encounter with Spiders when travelling back to the Tinkerville or outside of the cemetery
+Possible encounter with Spiders when travelling back to the Tinkerville or outside of the cemetery, when travelling back to the town the crystal may influence their path taking and result in them heading further into the darkness of the forest where they are surrounded by spider webs.
 # Planned Dialog
 
 # Recap
@@ -40,7 +40,7 @@ The party noticed that [[Perri Leafblade]] had a similar marking on his arm of a
 
 The party decided to head over to try find [[Adzak]] to give him his share of the reward for assisting with the quest and to tell him off all the changes at the mines.
 
-[[Adzak]] made his way into the town of [[Tinkerville]], where he came across [[Sturdy Supplies]] the main general store in the town, it was ran by a Jovial dwarf who went by the name Porky. [[Adzak]] showed great resistance being able to control his natural bloodlust and rage towards the store owner caused by the his previous overseer and slave enforcer.
+[[Adzak]] drank his way into the town of [[Tinkerville]], where he came across [[Sturdy Supplies]] the main general store in the town, it was ran by a Jovial dwarf who went by the name Porky. [[Adzak]] showed great resistance being able to control his natural bloodlust and rage towards the store owner caused by the his previous overseer and slave enforcer.
 
 [[Adzak]] was able to trade the gems he'd gathered in exchange for enough gold to purchase some starter equipment, he decided to head to the tavern to get a room and await the rest of the party to see if they kept their end of the bargain.
 

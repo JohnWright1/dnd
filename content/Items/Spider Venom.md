@@ -1,0 +1,1 @@
++2D8 poison damage + if 0 hp paralyze the person. Consitution Saving throw of 12 for halve damage.

@@ -1,0 +1,3 @@
+- Magical ring from the era of the Zepharyon Empire.
+- The ring is permanently bound to his person.
+- The ring provides the user with a single wish spell.
