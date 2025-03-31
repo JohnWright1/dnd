@@ -1,5 +1,5 @@
 ---
-Level: "3"
+Level: "4"
 Class: Monk (Warrior of Mercy)
 Species: Goliath, Lunarian
 Alignment: Lawful Neutral

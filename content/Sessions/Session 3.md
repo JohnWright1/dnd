@@ -32,7 +32,7 @@ Possible encounter with Spiders when travelling back to the Tinkerville or outsi
 
 # Recap
 
-[[Aukan]], [[Avery Wrendale]], and [[Paeola Diggledoo]] found themselves in the overseer's office with [[Beatrice Flowerheart]] the overseer of the [[Gnomegarde Central Mine]] who thanked them for their assistance with the ogre in the lower mines and for sealing the entrance, she paid them for the services and seemed unaware of any issues that they had noticed since they were last in the office. 
+[[Aukan]], [[Avery Carter]], and [[Paeola Diggledoo]] found themselves in the overseer's office with [[Beatrice Flowerheart]] the overseer of the [[Gnomegarde Central Mine]] who thanked them for their assistance with the ogre in the lower mines and for sealing the entrance, she paid them for the services and seemed unaware of any issues that they had noticed since they were last in the office. 
 
 She had no recollection of a [[Dagrun Kragdigger]] who was the previous overseer, as the group were leaving the young [[Perri Leafblade]] spoke up to the party mentioning that he knew [[Dagrun Kragdigger]] but couldn't remember everything as if the details were spotty and hazy.
 

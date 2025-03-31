@@ -1,5 +1,5 @@
 ---
-Level: "3"
+Level: "4"
 Class: Barbarian (Path of the Wild Heart)
 Species: Orc, Lunarian
 Alignment: Neutral Evil

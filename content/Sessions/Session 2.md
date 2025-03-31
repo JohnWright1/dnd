@@ -36,13 +36,13 @@ Possible encounter with guards and a knight to arrest the party for being in pos
 [[Perri Leafblade]]
 # Recap
 
-At the [[Golden Boar Tavern]] is where [[Aukan]], [[Avery Wrendale]] and [[Paeola Diggledoo]] first met. They were on a job for the Gnomegarde Mining Organization in order to destroy the hobgoblins and goblins that had setup camp in the lower parts of the gnomegarde mine.
+At the [[Golden Boar Tavern]] is where [[Aukan]], [[Avery Carter]] and [[Paeola Diggledoo]] first met. They were on a job for the Gnomegarde Mining Organization in order to destroy the hobgoblins and goblins that had setup camp in the lower parts of the gnomegarde mine.
 
 They met with [[Dagrun Kragdigger]] the mine overseer who took them to his office to meet with [[Adzak]] the final member of our party. There was clear tension at the mines and particularly between [[Dagrun Kragdigger]] the iron-fisted enforcer and [[Adzak]] an enslaved orc who was set to work in the mines.
 
 [[Adzak]] was wearing a Transcendent Crystal Collar that prevented him from enraging or attacking [[Dagrun Kragdigger]].
 
-The group made swift progress into the mine. It was with ease that the group was able to dispatch of the Hobgoblin leader and his Goblin associates they seemed like a well oiled machine of adventures who have worked together before despite [[Avery Wrendale]] killing [[Paeola Diggledoo]]'s familiar - accidentally.
+The group made swift progress into the mine. It was with ease that the group was able to dispatch of the Hobgoblin leader and his Goblin associates they seemed like a well oiled machine of adventures who have worked together before despite [[Avery Carter]] killing [[Paeola Diggledoo]]'s familiar - accidentally.
 
 Heading towards the southern entrance of the mine the group encountered a ogre frozen in stasis and an unknown figure dressed in black who quickly brought them under attack with the group seemingly being frozen in stasis. 
 

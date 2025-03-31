@@ -1,6 +1,6 @@
 ---
-Level: "3"
-Class: Paladin (Oath of the Ancients)
+Level: "4"
+Class: Druid (Circle of the Sea)
 Species: Aasimar, Lunarian
 Alignment: Neutral Good
 ---
