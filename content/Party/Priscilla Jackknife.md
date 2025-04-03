@@ -41,3 +41,5 @@ This has setup a strong feeling that anything placed in this box is only accessi
 The link between herself and the lock-box is not a healthy one, but she refuses to leave it behind or throw it away as it is her anchor point in the world, perhaps someone can unlock it and free her from this dark bond.
 
 After all, the only truth that she truly knows is that reward can only come from sacrifice.
+
+In possession of [[The Wounding Vault]]
