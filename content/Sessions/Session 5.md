@@ -4,11 +4,14 @@ title: Session 5
 # Current Threads
 
 - [[Gemhold Prison]]
-
+- [[The Crystal Trade]]
 # Things The Party Should Know
 
 # NPCs That Might Show Up
 
+- [[Croakus Fenweave]]
+- [[Professor Sparkflare]]
+- [[The Wanderer]]
 # Planned Encounters
 
 # Recap
