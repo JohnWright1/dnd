@@ -2,7 +2,7 @@
 
 Long ago, the Zepharyon Empire ruled with unparalleled wisdom and power. At its heart was a civilization that had mastered the manipulation of dimensional energy, harnessing the boundless potential of parallel realms. 
 
-They made use of *Transcendent Crystals*, enigmatic artifacts capable of absorbing or stabilizing dimensional forces. These crystals served as anchors between worlds, allowing controlled exploration of other dimensions and maintaining harmony between realms.
+They made use of  [[Transcendent Crystals]], enigmatic artifacts capable of absorbing or stabilizing dimensional forces. These crystals served as anchors between worlds, allowing controlled exploration of other dimensions and maintaining harmony between realms.
 
 But hubris, as it often does, became the empire's downfall. In their relentless pursuit to conquer and connect with every dimension, they overstepped. The final experiment—a dimensional convergence meant to intertwine all realms—went horribly wrong. A catastrophic rupture tore through the fabric of reality, scattering the empire across dimensions and erasing it from existence overnight. The once-mighty Zepharyon Empire faded into myth.
 

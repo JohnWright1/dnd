@@ -1,5 +1,6 @@
 ---
 title: Session 1
+date:
 ---
 # Current Threads
 
@@ -14,7 +15,7 @@ Beatrice not knowing about Dagrun.
 
 - [[Dagrun Kragdigger]]
 - [[Beatrice Flowerheart]]
-- [[BBEG]]
+- [[The Twisted Alchemist]]
 # Planned Interactions
 
 - [[Golden Boar Tavern]]

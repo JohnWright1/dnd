@@ -1,9 +1,11 @@
 ---
 title: Session 5
+date:
 ---
 # Current Threads
 
 - [[Gemhold Prison]]
+	- Classified documents of Window in Gnomegarde.
 - [[The Crystal Trade]]
 # Things The Party Should Know
 
@@ -13,6 +15,10 @@ title: Session 5
 - [[Professor Sparkflare]]
 - [[The Wanderer]]
 # Planned Encounters
+
+INVENTORY
+
+- Chantelle is name given.
 
 # Recap
 

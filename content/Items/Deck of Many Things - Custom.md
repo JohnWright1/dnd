@@ -15,6 +15,7 @@
 
 ## Aberration
 - Summon a hostile aberration, if the user can speak same language it is friendly.
+- Page 289
 
 ## Beast 
 - Summon D6 beasts, if the player beats a DC 15 Animal Handling check the beasts are friendly pets.

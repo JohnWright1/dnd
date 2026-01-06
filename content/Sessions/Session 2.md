@@ -1,5 +1,6 @@
 ---
 title: Session 2
+date:
 ---
 # Current Threads
 

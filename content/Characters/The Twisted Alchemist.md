@@ -1,13 +1,13 @@
 ---
-title: BBEG
+title: The Twisted Alchemist
 Alignment: Chaotic Evil
-Species: 
-Class: 
+Species:
+Class:
 Level:
 ---
 # Appearance
 
-The man that stands  before you is a haunting figure draped in a tattered black robe, its fabric seemingly absorbing all light. His long, spindly fingers, bony and claw-like, emerge from the sleeves, giving the impression of skeletal talons. His skin is a sickly, pallid hue, stretched taut over his gaunt frame, and his hollow eyes burn with an eerie, otherworldly glow.
+The man that stands before you is a haunting figure draped in a tattered black robe, its fabric seemingly absorbing all light. His long, spindly fingers, bony and claw-like, emerge from the sleeves, giving the impression of skeletal talons. His skin is a sickly, pallid hue, stretched taut over his gaunt frame, and his hollow eyes burn with an eerie, otherworldly glow.
 
 Clutched in his skeletal grip is a black sack, an object that appears to pulse with a dark energy. Tendrils of shadow seem to writhe and twist around it, as if the bag itself is alive and hungry for the souls it consumes. 
 

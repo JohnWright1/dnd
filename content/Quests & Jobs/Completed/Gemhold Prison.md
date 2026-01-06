@@ -12,7 +12,7 @@ The party will be questioned about how they came into possession of the crystal,
 
 They will be forced/asked to assist with dealing with the crystal which involves releasing the magic from the crystal and dealing with any consequences. 
 
-It is at this point that [[Professor Sparkflare]] will explain to the party about [[The Rifts]], and how destroying the crystal may release some of the after effects from [[The Rifts]], including releasing creatures, that may not be from this world.
+It is at this point that [[Professor Sparkflare]] will explain to the party about [[Disappearance]], and how destroying the crystal may release some of the after effects from [[Disappearance]], including releasing creatures, that may not be from this world.
 
 As a thanks for the assistance [[Professor Sparkflare]] will give the party a crystal that will allow the party to communicate more easily from greater distances and allow her to get back in contact with the party with any information she can gather with regards to the mysterious figure and the crystal they encountered. 
 

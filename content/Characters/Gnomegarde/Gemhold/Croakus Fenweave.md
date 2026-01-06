@@ -17,8 +17,6 @@ Croakus’s staff, carved from the ancient Driftwood Trees of the Fenlands, is g
 
 Despite his mystic grandeur, Croakus carries the subtle marks of his amphibian nature: a soft croak beneath his breath when he’s lost in thought, the faint scent of fresh rain that lingers around him, and an effortless grace in water. His presence is deeply calming yet endlessly enigmatic, embodying the essence of the Ribbari and the untold mysteries of the Rifts.
 
-Is there anything specific you'd like to expand upon for Croakus's character or abilities? I'm ready to dive deeper into his lore!
-
 # Affiliations
 
 # Statblock
@@ -82,8 +80,5 @@ Is there anything specific you'd like to expand upon for Croakus's character or 
 - **Robe of the Swamplord**: Grants him resistance to poison and advantage on saving throws against being restrained.  
 - **Fenwood Staff**: Arcane focus that doubles as a quarterstaff.
 
----
-
-Let me know if you'd like to tweak or add anything—this is your world, and Croakus is here to bring the magic to life!
 
 
