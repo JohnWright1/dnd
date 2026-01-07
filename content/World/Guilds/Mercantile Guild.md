@@ -1,0 +1,1 @@
+Purpose: Control trade, crafts, and economic power.

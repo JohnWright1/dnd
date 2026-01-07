@@ -1,3 +1,17 @@
+---
+Symbol: Joker Playing Card With a Stary Background
+Alignment: Chaotic Good
+Status: Alive
+Ranking: Greater God
+---
+# Worshipers
+
+# Interesting Information
+
+# Symbol
+
+![[Wanderer-Card.png]]
+
 ### **The Wanderer**
 The Wanderer is an enigmatic figure who seems to step beyond the boundaries of reality itself. His very essence defies the laws of the universe, belonging to a Rift known only as the **Horizon of Whimsy and Chaos**, a realm where time, space, and logic are pliable concepts. He exists both as a guide and a harbinger—an unpredictable force whose actions can profoundly shape destinies.
 

@@ -16,7 +16,7 @@ title: Erodar
 # Information
 
 - Magical Items Thoughts - [[Magical Item Options]]
-
+- [[Deck of Many Things - Custom]]
 # Party
 
 - [[Aukan]] - Orc Barbarian
@@ -24,3 +24,13 @@ title: Erodar
 - [[Avery Carter]] - Aasimar Druid
 - [[Paeola Diggledoo]] - Halfling Wizard
 - [[Priscilla Jackknife]] - Human Rogue
+# Pantheon
+- [[Aquaria, The Raging Storm]]
+- [[Pelor, The Radiant Sun]]
+- [[The Wanderer]]
+# Guilds
+- [[Adventurers Guild]]
+- [[Arcane Guild]]
+- [[Scholastic Guild]]
+- [[Mercantile Guild]]
+- [[Thieves Guild]]

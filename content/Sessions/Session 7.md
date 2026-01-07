@@ -78,3 +78,9 @@ The party headed back to the tavern to finish their day, before heading back to 
 In the middle of the night the party was awoke, they found out that there was an explosion north of the city as a cargo airship had exploded en-route to [[Windrock]].
 
 # Important Rules
+
+# Possible Threads
+
+- Adventurers Guild
+- Information on the encountered factions from [[Croakus Fenweave]]
+- Encounter with [[Thesmar Quillwright]]

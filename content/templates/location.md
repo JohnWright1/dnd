@@ -1,5 +1,5 @@
 ---
-Region: 
+Region:
 Allegiance:
 ---
 # Description
