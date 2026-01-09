@@ -7,6 +7,45 @@ A group has stolen a shipment of [[Transcendent Crystals]] from the illustrious 
 Croakus is suspicious of how it was possible for the crystals to have been stolen from the Academy with it's impressive security, he believes that their might be people on the inside who have assisted or a greater organisation is involved, he is interested in the group finding out any more information they can while getting the shipment back.
 
 He'll pay handsomely for the return of the crystals, and will be happy to pay for additional information that is discovered about who hired the group to steal the shipment.
+
+If prompted he will explain anything about the criminal organizations encountered, as a reward he will provide the party with:
+
+- 250 Gold
+- A map of Gnomegarde.
+
+"Your Assistance has been most appreciated with this matter, I'm very sorry about our earlier dealings with the Enchanted Black Transcendent Crystal, it is clear to me now that you were not involved with it's creation and I appreciate your help in bringing it to us here to be disposed of properly."
+
+"If you plan to stay in Gnomegarde much longer could I recommend visiting some of the Guilds that are in our great city. The Adventurers guild would very much welcome such capable individuals as yourselves, they often get contracted to assist with any problems across the entire Kingdom. "
+
+"For any of you who may be gifted with the magic like myself there is the Arcane Guild, the arcane guild are interested in the study of magic, arcane artifacts and regulation of magic. I'd be happy to give a recommendation to the head of the Gnomegarde branch  for any of you who'd be interested. Is name is [[Corven Ashmoor]]"
+
+"There is also the Mercantile Guild for anyone interested in learning crafting whether that is weapons, Armour or potions, and the Scholastic guild for our any of you more scholarly types."
+
+"Do you have any questions for me, before you leave?"
+
+> [!NOTE] Dented Coffin & Ember Saints Notes
+> If the party have spoken to Croakus about the insignia he will warn them about the path they may have accidentally found themselves upon.
+> 
+> "On a final note, while I'm incredibly grateful for your assistance with the crystal, I feel that I've put your down a dangerous path with the group(s) that you've encountered."
+> 
+> "The ember saints while a positive influence on the city to many for their religious work there are rumors of more nefarious practices underway some calling them a cult of sorts. "
+> 
+> "The Dented Coffin are truly an organization that you should be very careful with, they're known for criminal activities all over the kingdom with their leader being both very illusive and dangerous."
+> 
+> "I do wish you the best of luck and hope you're able to avoid these unsavory characters."
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Events
 
 A letter will be dropped off at [[Priscilla Jackknife]]'s room that contains:

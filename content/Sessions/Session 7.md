@@ -8,20 +8,26 @@ date: 10/01/2026
 - [[The Storytellers Trap]]
 # Things The Party Should Know
 
+- Currently in possession of the shipment that was stolen from the Gemhold Academy.
+- In possession of a letter that was found inside of the storage room in the Gearglass Skyport that has instructions for the thieves, it has an insignia on the back of a dented coffin with a skeletal hand reaching out.
+
 # NPCs That Might Show Up
 
 - [[Croakus Fenweave]]
 - [[Thesmar Quillwright]]
 - [[Gabriel "The Dent" Danton]]
-- [[Tyrion Fording]]
-# Planned Encounters
+- [[Tyriel]]
+# Possible Encounters
 
 - [[The Storytellers Trap]]
 	- [Forest Encounter](https://www.dndbeyond.com/encounters/b0f98485-1275-429f-991a-c8d6a495475d)
 	- [Dungeon Encounter](https://www.dndbeyond.com/encounters/ba9e5a70-558f-4e44-94ee-609d846ee68d)
 	- [Thesmar Quillwright](https://www.dndbeyond.com/encounters/2cbb6a4c-4f76-4e8a-a80c-68cff8cccd2b)
-
+- [[Caravan Escort]] ([[Adventurers Guild]])
+- 
 # Recap
+
+XP Gain:  300
 
 In our last session...
 

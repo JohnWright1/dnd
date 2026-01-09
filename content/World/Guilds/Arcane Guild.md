@@ -1,2 +1,10 @@
-Purpose: Study magic, regulate spellcasting, and train mages.
+# Purpose
+
+Study magic, regulate spell-casting, and train mages.
+
+# Chapters
+
+## Gnomegarde
+
+Leader: [[Corven Ashmoor]]
 

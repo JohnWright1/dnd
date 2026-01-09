@@ -26,3 +26,9 @@ That evening, as the celestial alignment returned to the night sky, Avery ventur
 As she approached, a vision enveloped her: the spirits of the earth and sky whispered secrets of valor and duty, revealing her true path as a paladin. Empowered by this celestial vision, Avery accepted her destiny, vowing to protect the innocent and safeguard the natural world. She felt the essence of the earth surge within her, granting her divine powers to heal, protect, and fight against those who sought to harm the land.
 
 Now, Avery roams the realms as a guardian of nature and a beacon of hope. With her shield adorned with symbols of the celestial night and her sword forged in the fires of her resolve, she stands ready to confront darkness wherever it appears. Guided by the wisdom of her parents and the spirits of the land, Avery seeks to unite her celestial heritage with her earthly knowledge, illuminating the path for those who wander in the shadows.
+
+# Imagery
+
+![[avery-1.png]]
+
+![[avery-2.png]]

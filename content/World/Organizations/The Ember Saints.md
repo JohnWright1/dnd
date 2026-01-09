@@ -4,7 +4,7 @@ Where _The Dented Coffin_ thrives in death and decay, _The Ember Saints_ burn wi
 
 #### 🔱 Leadership: High Purifier Tyrion Fording
 
-At the head of the Ember Saints stands _High Purifier [[Tyrion Fording]]_, a former cleric turned extremist. Tyrion was excommunicated for his violent interpretations of scripture. Rather than repent, he built a following of zealots who see fire not just as holy, but as justice incarnate.
+At the head of the Ember Saints stands _High Purifier [[Tyriel]]_, a former cleric turned extremist. Tyrion was excommunicated for his violent interpretations of scripture. Rather than repent, he built a following of zealots who see fire not just as holy, but as justice incarnate.
 
 Tyrion wears scorched ceremonial robes and a mask shaped like a flame-wreathed skull. His sermons are equal parts prophecy and threat, and his followers believe he receives visions directly from the Flame itself. He considers Gabriel Danton’s undead existence a blasphemy that must be erased, and has declared _The Dented Coffin_ “an affront to divine order.”
 
