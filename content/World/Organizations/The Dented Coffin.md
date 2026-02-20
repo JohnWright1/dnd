@@ -4,7 +4,7 @@ In the underbelly of Gnomegarde, where the cobbled streets twist into forgotten 
 
 #### 🧟‍♂️ Leadership: Gabriel "The Dent" Danton
 
-At its helm is the Undead Underboss, [[Gabriel "The Dent" Danton]] —once a notorious enforcer in Gnomegarde’s old guard. His nickname, _The Dent_, comes from the jagged fracture in his skull where a betrayal nearly ended him. Instead, he rose from his grave, embalmed in fury and ambition, and built an empire from the bones of his enemies.
+At its helm is the Undead Underboss, [[Gabriel Danton]] —once a notorious enforcer in Gnomegarde’s old guard. His nickname, _The Dent_, comes from the jagged fracture in his skull where a betrayal nearly ended him. Instead, he rose from his grave, embalmed in fury and ambition, and built an empire from the bones of his enemies.
 
 #### 🕸️ Structure and Operations
 

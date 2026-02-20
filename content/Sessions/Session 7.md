@@ -15,7 +15,7 @@ date: 10/01/2026
 
 - [[Croakus Fenweave]]
 - [[Thesmar Quillwright]]
-- [[Gabriel "The Dent" Danton]]
+- [[Gabriel Danton]]
 - [[Tyriel]]
 # Possible Encounters
 
