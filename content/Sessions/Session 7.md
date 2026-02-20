@@ -24,7 +24,6 @@ date: 10/01/2026
 	- [Dungeon Encounter](https://www.dndbeyond.com/encounters/ba9e5a70-558f-4e44-94ee-609d846ee68d)
 	- [Thesmar Quillwright](https://www.dndbeyond.com/encounters/2cbb6a4c-4f76-4e8a-a80c-68cff8cccd2b)
 - [[Caravan Escort]] ([[Adventurers Guild]])
-- 
 # Recap
 
 XP Gain:  300

@@ -34,18 +34,6 @@ If prompted he will explain anything about the criminal organizations encountere
 > 
 > "I do wish you the best of luck and hope you're able to avoid these unsavory characters."
 
-
-
-
-
-
-
-
-
-
-
-
-
 # Events
 
 A letter will be dropped off at [[Priscilla Jackknife]]'s room that contains:

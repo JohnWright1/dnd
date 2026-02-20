@@ -1,6 +1,6 @@
 ### **The Wounding Vault**
 
-The box in Priscilla’s possession, known among scholars as the *Wounding Vault*, is a relic of profound mystery and danger. Forged in the volatile chaos of a Rift, the Vault bridges dimensions in its very essence. It is both a physical container and a magical bond, an artifact of immense utility but equally devastating cost.
+The box in Priscilla’s possession, the *Wounding Vault*, is a relic of profound mystery and danger. Forged in the volatile chaos of a Rift, the Vault bridges dimensions in its very essence. It is both a physical container and a magical bond, an artifact of immense utility but equally devastating cost.
 
 #### **Origins**
 

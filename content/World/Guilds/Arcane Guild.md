@@ -7,4 +7,7 @@ Study magic, regulate spell-casting, and train mages.
 ## Gnomegarde
 
 Leader: [[Corven Ashmoor]]
+Receptionist: Evrim 
+
+
 

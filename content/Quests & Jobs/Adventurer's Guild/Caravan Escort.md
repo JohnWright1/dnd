@@ -11,8 +11,8 @@ Bonus gold will be awarded for dealing with the goblins attacking the caravan an
 
 # Objectives
 
- - [ ] Protect the merchants 
- - [ ] Defend the caravan from harm
- - [ ] Defeat the goblins
+ - [x] Protect the merchants 
+ - [x] Defend the caravan from harm
+ - [x] Defeat the goblins
  - [ ] Find the cause of the goblin attacks
  - [ ] Deal with cause of the goblin change in attitude
