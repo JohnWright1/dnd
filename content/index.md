@@ -4,7 +4,10 @@ title: Erodar
 # Sessions
 
 ## Current Session
-- [[Session 7]]
+
+- [[Session 8]]
+- [[Notes]]
+
 ## Previous Sessions
 
 - [[Session 1]]
@@ -13,6 +16,7 @@ title: Erodar
 - [[Session 4]]
 - [[Session 5]]
 - [[Session 6]]
+- [[Session 7]]
 # Information
 
 - Magical Items Thoughts - [[Magical Item Options]]
