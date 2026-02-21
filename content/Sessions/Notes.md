@@ -1,0 +1,5 @@
+- [[Priscilla Jackknife]] sold a guards uniform that was stolen from the Gemhold academy.
+- [[Priscilla Jackknife]] threw away some confidential notes that were taken from the Academy.
+- The party have Communication Crystals that left them communicate over 500m.
+- Cyrille Mishala is the current leader of Gnomegarde elected last year, she was the old leader of the Argosian Mercantile Guild.
+- 
