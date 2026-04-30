@@ -24,7 +24,7 @@ date: 21/02/2026
 
 - The party did a small amount of investigation into the [[Gearglass Skyport]] incident and found that a cargo ship had exploded enroute to the city of [[Windrock]] that is on the border of Lysoria & the Northlands.
 - [[Croakus Fenweave]] informed the party that the crystal that they found was dispelled and ground down to dust for disposal and if there were to happen upon any other dangerous enchanted crystals he'd be happy to do the same and reward the party for information.
-- He warned the party about the rival guilds at work in the kingdom, the [[Ember Saints]] and the [[Dented Coffin]]
+- He warned the party about the rival organizations at work in the kingdom, the [[Ember Saints]] and the [[Dented Coffin]]
 - [[Aukan]] headed to the Argosian Mercantile Guild
 	- [[Aukan]] purchased some materials for creating healing potions and was given membership so that he could return and sell healing potions to the guild.
 	- He also learnt about the potentials for getting magical items crafted from the guild if he was to bring or purchase the required materials.
@@ -33,7 +33,7 @@ date: 21/02/2026
 	- She registered herself with the guild under a secret identity of Paeola Wigglewoo..
 - [[Adzak]] & [[Priscilla Jackknife]] headed into the royal district 
 	- They entered a quite well secured Jewellery store - Petunia's Pearls - but there wasn't much that stood out or much opportunity presenting itself for [[Priscilla Jackknife]]
-- After meting back up the party headed to the Adventures Guild to see if there was any work available while they were in town waiting for some of the leads to come back with answers.
+- After meeting back up the party headed to the Adventures Guild to see if there was any work available while they were in town waiting for some of the leads to come back with answers.
 - While in the Guild they registered to get work and found picked up some jobs.
 - They took three flyers while at the guild, the first was to investigate why goblins were acting up on the path to Greenstep a nearby village that supplies most of the food to Gnomegarde.
 - Information on a rumour that a group of cultists were attempting to summon a fire elemental for their bidding to the south east of the city.
